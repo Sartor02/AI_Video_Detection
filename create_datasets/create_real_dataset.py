@@ -6,7 +6,7 @@ import ast
 
 # --- CONFIGURATION ---
 SOURCE_CSV_FILE = "panda70m.csv"
-TARGET_VIDEOS = 400
+TARGET_VIDEOS = 450
 OUTPUT_DIR = "../datasets/real"
 OUTPUT_CSV = "real_captions.csv"
 

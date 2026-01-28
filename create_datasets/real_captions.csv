@@ -1,51 +1,451 @@
 video_path,caption
-dataset/real\real_000.mp4,A neuron in a black background.
-dataset/real\real_001.mp4,A video game title screen with the words waro blast.
-dataset/real\real_002.mp4,A wall with a screen that shows the names of phones and tablets.
-dataset/real\real_003.mp4,"A black plate with sausage, eggs, and cheese."
-dataset/real\real_004.mp4,A poster with a picture of soldiers in uniform during the war.
-dataset/real\real_005.mp4,A person is pointing to a box under a table.
-dataset/real\real_006.mp4,The player is in a futuristic cyberpunk-themed first-person shooter game.
-dataset/real\real_007.mp4,A plate of food and a bowl of salad on a table.
-dataset/real\real_008.mp4,A man standing next to a large pot with steam coming out of it.
-dataset/real\real_009.mp4,A person holding a small toy army on the floor.
-dataset/real\real_010.mp4,A drawing of an electronic device with parts labeled.
-dataset/real\real_011.mp4,It is a map of the united states with a red pinpoint on the state of vermont.
-dataset/real\real_012.mp4,Two nba players standing next to each other.
-dataset/real\real_013.mp4,A statue of a knight standing in front of a wall.
-dataset/real\real_014.mp4,A man in a blue jacket is talking on a microphone in front of a sign.
-dataset/real\real_015.mp4,An instagram account with a picture of a green man.
-dataset/real\real_016.mp4,A woman is sitting for a portrait in an old black and white photo.
-dataset/real\real_017.mp4,There is a man wearing a white t-shirt and glasses standing in front of a blue background.
-dataset/real\real_018.mp4,A woman is arranging flowers in a vase and another woman is talking to her.
-dataset/real\real_019.mp4,The taxi driver is smiling and waving to the camera while sitting in his car.
-dataset/real\real_020.mp4,A man in a suit is talking to the camera in an office.
-dataset/real\real_021.mp4,A black and white dog is laying on a bed with a blanket on the floor and a ball under his paw.
-dataset/real\real_022.mp4,A man and a woman are standing in a kitchen and talking to each other.
-dataset/real\real_023.mp4,A person is using the apple music app on an iphone.
-dataset/real\real_024.mp4,A woman in an orange apron is smiling.
-dataset/real\real_025.mp4,A soccer game is being played on a stadium and the players are running on the field.
-dataset/real\real_026.mp4,A news tv screen with a woman on it.
-dataset/real\real_027.mp4,A group of basketball players and coaches are giving a press conference.
-dataset/real\real_028.mp4,A man in a black suit and tie is singing into a microphone at a party.
-dataset/real\real_029.mp4,A man in a black shirt standing in front of a kitchen counter.
-dataset/real\real_030.mp4,"The man is sitting at a desk with a whiteboard behind him, he is wearing glasses and has a striped shirt on."
-dataset/real\real_031.mp4,The person is cutting a piece of fabric on a rotating cutting mat.
-dataset/real\real_032.mp4,"A man and a woman are preparing a dish in a kitchen, they are adding seasoning to a broth and making sure the heat is low."
-dataset/real\real_033.mp4,A woman is talking to a man in front of a fireplace.
-dataset/real\real_034.mp4,A person is wrapping a piece of paper around a pillow.
-dataset/real\real_035.mp4,There is a person standing on a staircase in a narrow canyon with walls made of stone.
-dataset/real\real_036.mp4,There are people walking on a street and some of them are carrying shopping bags.
-dataset/real\real_037.mp4,"The person is standing on a stage, wearing a black leather jacket and speaking into a microphone."
-dataset/real\real_038.mp4,A woman wearing a black jacket is standing in front of a wall of televisions.
-dataset/real\real_039.mp4,A man and a woman are sitting down on the news.
-dataset/real\real_040.mp4,There are two glasses of chocolate pudding with whipped cream on a table.
-dataset/real\real_041.mp4,A deer is hiding in the woods among trees covered in snow.
-dataset/real\real_042.mp4,A close up of a sign that says what is duck hut?.
-dataset/real\real_043.mp4,A man wearing glasses and a hat sitting in front of a computer screen.
-dataset/real\real_044.mp4,The person is holding a small object in their hand that appears to be made of plastic and has a round shape with a small hole on one side.
-dataset/real\real_045.mp4,A man is holding a rifle and aiming it at a target.
-dataset/real\real_046.mp4,A man is standing in a kitchen holding scissors and talking about cleaning smelt that he and his friend caught the previous night.
-dataset/real\real_047.mp4,A group of men in suits talking to each other.
-dataset/real\real_048.mp4,A person touching a metal object on a table.
-dataset/real\real_049.mp4,A man holding a camera in front of a body of water.
+../datasets/real\real_000.mp4,A neuron in a black background.
+../datasets/real\real_001.mp4,A close up of a man's face looking down.
+../datasets/real\real_002.mp4,A video game title screen with the words waro blast.
+../datasets/real\real_003.mp4,A wall with a screen that shows the names of phones and tablets.
+../datasets/real\real_004.mp4,"A black plate with sausage, eggs, and cheese."
+../datasets/real\real_005.mp4,A poster with a picture of soldiers in uniform during the war.
+../datasets/real\real_006.mp4,A person is using an apple iphone 12 to access the phone's settings and scroll through different options.
+../datasets/real\real_007.mp4,A person is pointing to a box under a table.
+../datasets/real\real_008.mp4,"A woman is standing in front of a kitchen counter, holding a spray bottle filled with cleaning solution and talking to the camera."
+../datasets/real\real_009.mp4,The player is in a futuristic cyberpunk-themed first-person shooter game.
+../datasets/real\real_010.mp4,A plate of food and a bowl of salad on a table.
+../datasets/real\real_011.mp4,A man standing next to a large pot with steam coming out of it.
+../datasets/real\real_012.mp4,A person holding a small toy army on the floor.
+../datasets/real\real_013.mp4,A drawing of an electronic device with parts labeled.
+../datasets/real\real_014.mp4,It is a map of the united states with a red pinpoint on the state of vermont.
+../datasets/real\real_015.mp4,Two nba players standing next to each other.
+../datasets/real\real_016.mp4,A statue of a knight standing in front of a wall.
+../datasets/real\real_017.mp4,A man in a blue jacket is talking on a microphone in front of a sign.
+../datasets/real\real_018.mp4,An instagram account with a picture of a green man.
+../datasets/real\real_019.mp4,A woman is sitting for a portrait in an old black and white photo.
+../datasets/real\real_020.mp4,There is a man wearing a white t-shirt and glasses standing in front of a blue background.
+../datasets/real\real_021.mp4,"A picture of a lemon with the words ""candied or sugared lemon"" written on it."
+../datasets/real\real_022.mp4,A woman is arranging flowers in a vase and another woman is talking to her.
+../datasets/real\real_023.mp4,The taxi driver is smiling and waving to the camera while sitting in his car.
+../datasets/real\real_024.mp4,A man in a suit is talking to the camera in an office.
+../datasets/real\real_025.mp4,A black and white dog is laying on a bed with a blanket on the floor and a ball under his paw.
+../datasets/real\real_026.mp4,A man and a woman are standing in a kitchen and talking to each other.
+../datasets/real\real_027.mp4,A person is using the apple music app on an iphone.
+../datasets/real\real_028.mp4,A woman in an orange apron is smiling.
+../datasets/real\real_029.mp4,A soccer game is being played on a stadium and the players are running on the field.
+../datasets/real\real_030.mp4,A news tv screen with a woman on it.
+../datasets/real\real_031.mp4,A group of basketball players and coaches are giving a press conference.
+../datasets/real\real_032.mp4,A man in a black suit and tie is singing into a microphone at a party.
+../datasets/real\real_033.mp4,A man in a black shirt standing in front of a kitchen counter.
+../datasets/real\real_034.mp4,"The man is sitting at a desk with a whiteboard behind him, he is wearing glasses and has a striped shirt on."
+../datasets/real\real_035.mp4,The person is cutting a piece of fabric on a rotating cutting mat.
+../datasets/real\real_036.mp4,"A man and a woman are preparing a dish in a kitchen, they are adding seasoning to a broth and making sure the heat is low."
+../datasets/real\real_037.mp4,A woman is talking to a man in front of a fireplace.
+../datasets/real\real_038.mp4,A person is wrapping a piece of paper around a pillow.
+../datasets/real\real_039.mp4,There is a person standing on a staircase in a narrow canyon with walls made of stone.
+../datasets/real\real_040.mp4,There are people walking on a street and some of them are carrying shopping bags.
+../datasets/real\real_041.mp4,"The person is standing on a stage, wearing a black leather jacket and speaking into a microphone."
+../datasets/real\real_042.mp4,A woman wearing a black jacket is standing in front of a wall of televisions.
+../datasets/real\real_043.mp4,A man and a woman are sitting down on the news.
+../datasets/real\real_044.mp4,There are two glasses of chocolate pudding with whipped cream on a table.
+../datasets/real\real_045.mp4,A deer is hiding in the woods among trees covered in snow.
+../datasets/real\real_046.mp4,A close up of a sign that says what is duck hut?.
+../datasets/real\real_047.mp4,A man wearing glasses and a hat sitting in front of a computer screen.
+../datasets/real\real_048.mp4,The person is holding a small object in their hand that appears to be made of plastic and has a round shape with a small hole on one side.
+../datasets/real\real_049.mp4,A screenshot of a video game showing a fire.
+../datasets/real\real_050.mp4,A man is holding a rifle and aiming it at a target.
+../datasets/real\real_051.mp4,A man is standing in a kitchen holding scissors and talking about cleaning smelt that he and his friend caught the previous night.
+../datasets/real\real_052.mp4,A group of men in suits talking to each other.
+../datasets/real\real_053.mp4,A person touching a metal object on a table.
+../datasets/real\real_054.mp4,A man holding a camera in front of a body of water.
+../datasets/real\real_055.mp4,A hand reaching for a metal shelf in a warehouse.
+../datasets/real\real_056.mp4,A man is sitting at a desk in a room with a green wall. he is wearing a plaid shirt and glasses.
+../datasets/real\real_057.mp4,A beekeeper's hand holding a piece of honeycomb.
+../datasets/real\real_058.mp4,A bearded man in a black shirt is talking into a microphone and gesturing with his arms.
+../datasets/real\real_059.mp4,The person is wearing blue crochet fingerless gloves.
+../datasets/real\real_060.mp4,A basketball player in a video game.
+../datasets/real\real_061.mp4,A soccer player is kicking a soccer ball on a field with a crowd of people watching.
+../datasets/real\real_062.mp4,A group of young football players are hugging each other after winning a game.
+../datasets/real\real_063.mp4,A sign that says lan hue in chinese on a glass door.
+../datasets/real\real_064.mp4,A newscast with a woman holding a microphone and a map.
+../datasets/real\real_065.mp4,Firefighters arrived at the scene of a building collapse and were trying to rescue people trapped inside.
+../datasets/real\real_066.mp4,"There are two bottles of alcohol on a counter, one with a label that says ""brulio"" and the other with a label that says ""agrio""."
+../datasets/real\real_067.mp4,A man is talking to the camera in front of an aquarium with white fish swimming in it.
+../datasets/real\real_068.mp4,A group of young men sitting on a bench.
+../datasets/real\real_069.mp4,A woman is speaking at a talk show.
+../datasets/real\real_070.mp4,A close up of a black steering wheel with red stitching.
+../datasets/real\real_071.mp4,A group of kids are dancing in a locker room.
+../datasets/real\real_072.mp4,A book with a picture of a kitchen on it.
+../datasets/real\real_073.mp4,"There is a woman sitting at a table in a restaurant, surrounded by people."
+../datasets/real\real_074.mp4,A woman is driving a car and talking to the camera.
+../datasets/real\real_075.mp4,A cartoon of a man with a santa hat on his head.
+../datasets/real\real_076.mp4,A fox news broadcast with a man in a suit and tie.
+../datasets/real\real_077.mp4,A piece of metal is being machined on a lathe.
+../datasets/real\real_078.mp4,A woman is giving a speech at a podium.
+../datasets/real\real_079.mp4,A woman is smiling and looking at the camera while wearing leggings.
+../datasets/real\real_080.mp4,A man posing for a picture with another man.
+../datasets/real\real_081.mp4,A person's hand reaching over a table full of food.
+../datasets/real\real_082.mp4,A man in a blue shirt mixing something in a metal bowl.
+../datasets/real\real_083.mp4,A person holding a grey crocheted piece of fabric.
+../datasets/real\real_084.mp4,A group of people sitting on benches holding signs.
+../datasets/real\real_085.mp4,A news anchor with a picture of a man and a woman on the screen.
+../datasets/real\real_086.mp4,The person is wearing headphones and speaking into a microphone.
+../datasets/real\real_087.mp4,A woman is talking to the camera on a white background.
+../datasets/real\real_088.mp4,A man and a woman sitting at a news desk.
+../datasets/real\real_089.mp4,"The word ""windows"" is written in white letters on a black background."
+../datasets/real\real_090.mp4,A package of fishing hooks on a white background.
+../datasets/real\real_091.mp4,A blue sky with the words based on a true story.
+../datasets/real\real_092.mp4,A man in a suit and tie talks into a microphone in front of a building.
+../datasets/real\real_093.mp4,A person is holding a flashlight in their hand and opening the package.
+../datasets/real\real_094.mp4,A man and woman are on a boat in the water with other people in the background.
+../datasets/real\real_095.mp4,"A white plate is topped with eggs, toast and a fork."
+../datasets/real\real_096.mp4,It is a black background with text in the middle.
+../datasets/real\real_097.mp4,A person wearing a blue glove is working on a car engine.
+../datasets/real\real_098.mp4,A director is filming a movie using a camera and lighting equipment.
+../datasets/real\real_099.mp4,A group of musicians are sitting on a couch and talking to the interviewer.
+../datasets/real\real_100.mp4,A news report of a ship launch in a parking lot.
+../datasets/real\real_101.mp4,"There is a group of people standing in front of a tent, and they are all wearing white shirts."
+../datasets/real\real_102.mp4,A basketball game is being played in an arena with a crowd of people watching.
+../datasets/real\real_103.mp4,A chef is standing in front of a kitchen and talking to the camera.
+../datasets/real\real_104.mp4,The man is fishing from a boat and using a trolling motor with an i-pilot system.
+../datasets/real\real_105.mp4,The person is holding a bowl of oatmeal in their hands.
+../datasets/real\real_106.mp4,Person is using a white substance to create a sculpture on a wooden surface.
+../datasets/real\real_107.mp4,Three people are sitting at a table and discussing something.
+../datasets/real\real_108.mp4,There is a man and woman standing in front of an open door in a dark room.
+../datasets/real\real_109.mp4,A pregnant woman in a bikini standing next to a pool.
+../datasets/real\real_110.mp4,"It's a winter wonderland with snow on the ground, and there are cars parked on the side of the road."
+../datasets/real\real_111.mp4,A woman is putting nail polish bottles into a drawer with dividers.
+../datasets/real\real_112.mp4,A person's hand is pointing a finger at a tree in a backyard of a house with grass and a fence.
+../datasets/real\real_113.mp4,A woman is being searched by security personnel in a shopping mall.
+../datasets/real\real_114.mp4,There is a cocktail glass sitting on top of a wooden table with a view of a city skyline in the background.
+../datasets/real\real_115.mp4,A close up of the wheel of a red sports car.
+../datasets/real\real_116.mp4,A man in a blue polo shirt is on a tv screen.
+../datasets/real\real_117.mp4,A black background with a logo on it.
+../datasets/real\real_118.mp4,A man in a white shirt working on a ceiling.
+../datasets/real\real_119.mp4,A man in a blue t-shirt is standing in front of shelves filled with plastic containers and he is talking to the camera.
+../datasets/real\real_120.mp4,A sign on a wall with a lotus flower on it.
+../datasets/real\real_121.mp4,There is a plastic bowl filled with a mixture of dirt and worms on a table.
+../datasets/real\real_122.mp4,An illustration of a person pointing to the top of a person's head.
+../datasets/real\real_123.mp4,"The speaker is sitting in front of a microphone, wearing a brown suit and a blue tie."
+../datasets/real\real_124.mp4,There is a group of soccer players posing for a photo in a locker room.
+../datasets/real\real_125.mp4,A cartoon showing a man carrying a large piece of cheese.
+../datasets/real\real_126.mp4,A man in a green shirt holding a large sword.
+../datasets/real\real_127.mp4,An image of a face with a helmet on it.
+../datasets/real\real_128.mp4,A man is sitting in front of a red background and talking to the camera.
+../datasets/real\real_129.mp4,"The woman is wearing a red sweater and a straw hat, standing in front of a brick wall with her arms outstretched."
+../datasets/real\real_130.mp4,A man is standing next to a black motorcycle in a parking lot.
+../datasets/real\real_131.mp4,A female swimmer wearing a helmet and goggles.
+../datasets/real\real_132.mp4,A man wearing a suit and tie is talking.
+../datasets/real\real_133.mp4,A man pushing a red lawn mower in front of a house.
+../datasets/real\real_134.mp4,A woman is cooking food in a frying pan on a stove.
+../datasets/real\real_135.mp4,Two pictures showing the difference between two different versions of the same part.
+../datasets/real\real_136.mp4,It is a glass bowl filled with various nail polish bottles.
+../datasets/real\real_137.mp4,A woman is shouting and pointing at something in front of her while other people are standing around her.
+../datasets/real\real_138.mp4,A person sitting at a desk with a crown in front of it.
+../datasets/real\real_139.mp4,A cartoon drawing of a person standing in a room.
+../datasets/real\real_140.mp4,A woman in black and yellow is talking on a television screen.
+../datasets/real\real_141.mp4,"The speaker is a male news anchor in a suit and glasses, sitting at a desk in a television studio."
+../datasets/real\real_142.mp4,A woman talking to a man in front of a white van.
+../datasets/real\real_143.mp4,"A car is driving on a dirt road in the mountains, passing by trees and hills."
+../datasets/real\real_144.mp4,A woman is sitting in front of a news station.
+../datasets/real\real_145.mp4,A man in a gray shirt standing next to a sink.
+../datasets/real\real_146.mp4,There is a game of rugby being played in a stadium with many people watching.
+../datasets/real\real_147.mp4,A man and a woman talking to the media.
+../datasets/real\real_148.mp4,A screen shot of a website with many videos on it.
+../datasets/real\real_149.mp4,People are sitting at tables in a room at a meeting.
+../datasets/real\real_150.mp4,A middle-aged asian woman wearing glasses is smiling and talking to the camera.
+../datasets/real\real_151.mp4,"A man wearing a baseball cap, sunglasses, and a chain walks into a locker room."
+../datasets/real\real_152.mp4,A person is cooking food in a frying pan on a gas stove.
+../datasets/real\real_153.mp4,A white bowl filled with fried potatoes on a red table.
+../datasets/real\real_154.mp4,A person is fishing with a rod and reel on a boat in the ocean.
+../datasets/real\real_155.mp4,A man is walking down an escalator in an airport at night.
+../datasets/real\real_156.mp4,A woman of arab descent is applying makeup using a beauty blender sponge.
+../datasets/real\real_157.mp4,"The man is wearing a blue shirt and black pants, standing in front of a wooden wall with tools hanging on it."
+../datasets/real\real_158.mp4,The person is walking into a modern kitchen and pointing out various features of the room.
+../datasets/real\real_159.mp4,A group of people playing basketball in a gym.
+../datasets/real\real_160.mp4,A close up of a person's toe with a bandage on it.
+../datasets/real\real_161.mp4,A green iphone sitting on top of a wooden table.
+../datasets/real\real_162.mp4,A man in a native costume holding a spear in a grassy field.
+../datasets/real\real_163.mp4,A baseball game is being played in a stadium.
+../datasets/real\real_164.mp4,A man laying on the floor in a cage.
+../datasets/real\real_165.mp4,A person is using a wooden spoon to stir-fry pork in a wok on a stove.
+../datasets/real\real_166.mp4,A man is talking to another man in a video game.
+../datasets/real\real_167.mp4,A young man is standing in a kitchen holding a video card and explaining the process of installing a water block on it.
+../datasets/real\real_168.mp4,A person is placing a yellow duck on top of a white blanket.
+../datasets/real\real_169.mp4,A woman is talking to the camera in a room with a blurred background.
+../datasets/real\real_170.mp4,A young woman is wearing a white shirt and standing in front of a white wall.
+../datasets/real\real_171.mp4,"There is an aerial view of a city with a lot of buildings, some of which are old, and the sky is cloudy."
+../datasets/real\real_172.mp4,A young woman is hugging her child while sitting on a couch.
+../datasets/real\real_173.mp4,An aerial view of a house and barn.
+../datasets/real\real_174.mp4,A person holding up a cell phone with apps in the task manager.
+../datasets/real\real_175.mp4,A news anchor in a purple dress standing in front of a blue background.
+../datasets/real\real_176.mp4,A person is using a net to remove white flakes from the bottom of a swimming pool.
+../datasets/real\real_177.mp4,A person in a kitchen with a bowl of sauce and a lemon on the counter.
+../datasets/real\real_178.mp4,A group of tourists with backpacks are walking through a rock tunnel.
+../datasets/real\real_179.mp4,"The user is playing a video game on a computer screen, and there are various objects in the background such as windows, doors, and walls."
+../datasets/real\real_180.mp4,A person is reaching under the hood of a car with wires coming out of the front bumper.
+../datasets/real\real_181.mp4,An asian man holding a green book in front of a bookshelf full of books.
+../datasets/real\real_182.mp4,A young man is standing on a red background and talking on the phone.
+../datasets/real\real_183.mp4,The person is using a pair of blue gloves to work on a piece of red fabric.
+../datasets/real\real_184.mp4,A pair of hands making a heart out of wire.
+../datasets/real\real_185.mp4,A man and a woman on a news channel.
+../datasets/real\real_186.mp4,It is a black and white drawing or painting of a family of people with children.
+../datasets/real\real_187.mp4,A woman holding a child while standing next to a bunch of shopping carts.
+../datasets/real\real_188.mp4,A person is using a needle and thread to sew a circle on a piece of fabric.
+../datasets/real\real_189.mp4,The player is playing a first-person shooter game and shooting at enemies with a gun.
+../datasets/real\real_190.mp4,There is a door in an ancient ruin with sunlight shining through.
+../datasets/real\real_191.mp4,The interior of a car with the seats up.
+../datasets/real\real_192.mp4,A woman talking to a man in a dark room.
+../datasets/real\real_193.mp4,A black jeep is parked in a parking lot next to other cars.
+../datasets/real\real_194.mp4,A woman in a pink jacket on a news station.
+../datasets/real\real_195.mp4,A video game screen showing some soccer players.
+../datasets/real\real_196.mp4,A young boy wearing a helmet in the water.
+../datasets/real\real_197.mp4,A painting of a man with a beard and a sword next to a picture of a ship in the middle of the ocean.
+../datasets/real\real_198.mp4,There is a fish tank with blue lighting and rocks in it.
+../datasets/real\real_199.mp4,A woman looking at a shelf full of cds.
+../datasets/real\real_200.mp4,A woman in a black dress talking to a microphone.
+../datasets/real\real_201.mp4,"A man is driving a car, possibly a mazda rx-7 fc turbo, and he is wearing a white t-shirt."
+../datasets/real\real_202.mp4,There is a river with boats and buildings in the background.
+../datasets/real\real_203.mp4,A woman is wearing glasses and talking to the camera.
+../datasets/real\real_204.mp4,The logo for plantz things hosted by bill b.
+../datasets/real\real_205.mp4,A large group of men in uniform standing in front of a large building.
+../datasets/real\real_206.mp4,A picture of a lion sitting next to the letter a.
+../datasets/real\real_207.mp4,A person is holding a piece of cloth on top of a wooden table.
+../datasets/real\real_208.mp4,A man sitting at a radio station with headphones on.
+../datasets/real\real_209.mp4,A man in a suit and tie talking on a tv.
+../datasets/real\real_210.mp4,The teen titans cartoon characters in a living room.
+../datasets/real\real_211.mp4,A soccer coach is giving a speech to the press at a press conference.
+../datasets/real\real_212.mp4,A twitter screen shot of a woman in a green costume.
+../datasets/real\real_213.mp4,A fish tank has some plants growing out of the water in an aquarium.
+../datasets/real\real_214.mp4,A person is preparing food on a cutting board with vegetables and other ingredients.
+../datasets/real\real_215.mp4,A person standing over a metal bowl on a wooden table.
+../datasets/real\real_216.mp4,A person holding a cell phone in front of a display.
+../datasets/real\real_217.mp4,A picture of a bunch of pink tulips with a quote.
+../datasets/real\real_218.mp4,Person is cracking an egg into a glass bowl.
+../datasets/real\real_219.mp4,An old man is using a stick to extinguish a fire.
+../datasets/real\real_220.mp4,A painting of a woman in a blue dress on a wall.
+../datasets/real\real_221.mp4,Two friends are sitting at a picnic table in a park and eating food while talking to each other.
+../datasets/real\real_222.mp4,There is a man in a black leather jacket talking to another man.
+../datasets/real\real_223.mp4,It is a man standing in front of an observatory with several telescopes in the background.
+../datasets/real\real_224.mp4,"A black background with the words ""evans halfshaw a great deal more""."
+../datasets/real\real_225.mp4,There is a man standing at a table with several containers of different colors and shapes in front of him.
+../datasets/real\real_226.mp4,Two men are sitting at a table in a garage and talking to each other.
+../datasets/real\real_227.mp4,A flashlight with a red cord on a white surface.
+../datasets/real\real_228.mp4,A man with a beard and a tattoo is talking into a microphone in front of a black background.
+../datasets/real\real_229.mp4,"There is a large group of people holding a red and white banner with the word ""bolivia"" written on it."
+../datasets/real\real_230.mp4,A group of people dressed in riot gear are standing on a field and talking to each other.
+../datasets/real\real_231.mp4,"The man is standing in front of a gas station with a beard and wearing a black cap, talking to the reporter."
+../datasets/real\real_232.mp4,Two women playing soccer on a field in front of a crowd.
+../datasets/real\real_233.mp4,A man and a woman are standing in front of a microphone while talking to each other.
+../datasets/real\real_234.mp4,A red and white logo on a gray background.
+../datasets/real\real_235.mp4,A young man is standing in front of a building wearing sunglasses and a hat.
+../datasets/real\real_236.mp4,A person is preparing chicken and onions for cooking.
+../datasets/real\real_237.mp4,A military officer is sitting at his desk and talking to the camera.
+../datasets/real\real_238.mp4,Two men standing next to each other holding a plaque.
+../datasets/real\real_239.mp4,A picture of a letter a on a black background.
+../datasets/real\real_240.mp4,"A group of young people are sitting at a table, enjoying a meal together."
+../datasets/real\real_241.mp4,A man wearing red sunglasses sitting in a car.
+../datasets/real\real_242.mp4,A close up of the wheel of a truck driving down the road.
+../datasets/real\real_243.mp4,A child is playing with a plastic bowl on a table.
+../datasets/real\real_244.mp4,Person and kong on a computer screen.
+../datasets/real\real_245.mp4,A close up of a hammock with blue rope.
+../datasets/real\real_246.mp4,A purple bowl filled with white cream on a tiled floor.
+../datasets/real\real_247.mp4,It is a white 1971 chevrolet c10 pickup truck parked on the side of a road in a green field.
+../datasets/real\real_248.mp4,A man in a blue shirt is standing on a space station.
+../datasets/real\real_249.mp4,"There are two people, a man and a woman, standing next to each other in front of a car."
+../datasets/real\real_250.mp4,A white background with a black and white logo on it.
+../datasets/real\real_251.mp4,The woman is sitting at a desk in a room with a lot of books and papers on the shelves. she is wearing a black jacket and appears to be looking at something on her computer screen.
+../datasets/real\real_252.mp4,A video game is shown in a pixel art style.
+../datasets/real\real_253.mp4,"It is a woman in an office setting, speaking into a microphone."
+../datasets/real\real_254.mp4,The player is playing a video game and there is a map on the screen.
+../datasets/real\real_255.mp4,A young man is sitting in a room surrounded by cardboard boxes. he is wearing a yellow t-shirt and is smiling.
+../datasets/real\real_256.mp4,A man is standing in front of a blue background and talking to the camera.
+../datasets/real\real_257.mp4,A man is shopping for pants in a clothing store.
+../datasets/real\real_258.mp4,A drone video shows the destruction of a storm.
+../datasets/real\real_259.mp4,A man in a plaid shirt standing next to a car in a garage.
+../datasets/real\real_260.mp4,A crowd of people watching a ski race on a snowy field.
+../datasets/real\real_261.mp4,A red mazda suv on display at an auto show.
+../datasets/real\real_262.mp4,A young woman is playing the guitar and singing in front of a microphone.
+../datasets/real\real_263.mp4,"A young woman is sitting at a table in a cafe, looking at her phone."
+../datasets/real\real_264.mp4,"A person is trying to finger roll a basketball through a hoop, and another person is watching and encouraging them."
+../datasets/real\real_265.mp4,A black background with the words superfood healthy living.
+../datasets/real\real_266.mp4,A cartoon character dressed as a witch opens the door of a haunted house on halloween night.
+../datasets/real\real_267.mp4,A woman in a red shirt standing in front of a wall.
+../datasets/real\real_268.mp4,"There is a black and white patterned fabric with scissors, needle, and thread on it."
+../datasets/real\real_269.mp4,A woman is kneading dough on a cutting board with her hands.
+../datasets/real\real_270.mp4,A table topped with a variety of food.
+../datasets/real\real_271.mp4,A woman in a blue shirt standing in front of two monitors.
+../datasets/real\real_272.mp4,"A group of people are sitting in a classroom or lecture hall, and one person is giving a presentation."
+../datasets/real\real_273.mp4,The logo for cinema3d on a black background.
+../datasets/real\real_274.mp4,A man in a suit is standing in an office and talking to the camera.
+../datasets/real\real_275.mp4,A man in a blue and white t-shirt talking to a tv.
+../datasets/real\real_276.mp4,A pitbull puppy is walking on a leash in the backyard of a house.
+../datasets/real\real_277.mp4,A poster with a mustache and a red hat on it.
+../datasets/real\real_278.mp4,A group of firefighters walking down a dirt road.
+../datasets/real\real_279.mp4,A man standing behind a bar with his arms outstretched.
+../datasets/real\real_280.mp4,A man in a cap and blue jacket standing on a field.
+../datasets/real\real_281.mp4,A man is wearing a suit and tie while talking to the camera.
+../datasets/real\real_282.mp4,A young man and woman are sitting at a picnic table on a college campus.
+../datasets/real\real_283.mp4,"A man is standing on the red carpet at an event, and people are taking pictures of him."
+../datasets/real\real_284.mp4,Two men are sitting in red chairs and talking to each other.
+../datasets/real\real_285.mp4,A red container with a red lid on a green background.
+../datasets/real\real_286.mp4,A group of football players running on a field.
+../datasets/real\real_287.mp4,A person is working on a computer with two monitors and the lighting is changing from blue to purple.
+../datasets/real\real_288.mp4,A woman is holding a device in a box.
+../datasets/real\real_289.mp4,A pink globule in the middle of a dark space.
+../datasets/real\real_290.mp4,A computer screen displaying a map.
+../datasets/real\real_291.mp4,"A picture of a woman's hair with the words heat your body warms up, causing it to sweat."
+../datasets/real\real_292.mp4,The logo for total fred on a dark background.
+../datasets/real\real_293.mp4,"A white marble cake stand holding a bottle of wine, a bottle of champagne, a bottle of vodka, and a bottle of raspberry liqueur."
+../datasets/real\real_294.mp4,A woman is standing in front of a window holding a bag.
+../datasets/real\real_295.mp4,A golden retriever is looking at the camera with snow falling on its fur.
+../datasets/real\real_296.mp4,A baseball player throwing a ball on a field.
+../datasets/real\real_297.mp4,A group of men in suits and ties sitting at a desk in front of a baseball stadium.
+../datasets/real\real_298.mp4,Onions are being cooked in a frying pan with other ingredients.
+../datasets/real\real_299.mp4,The person is holding a bag of oreos and other ingredients.
+../datasets/real\real_300.mp4,A person playing with a toy train set in the grass.
+../datasets/real\real_301.mp4,A man holding a bag of deep river potato chips.
+../datasets/real\real_302.mp4,A person is glueing a purple ribbon to the wings of a butterfly.
+../datasets/real\real_303.mp4,A man in a deadpool mask with glowing eyes.
+../datasets/real\real_304.mp4,A person is using chopsticks to pick up buffalo cauliflower bites from a white plate.
+../datasets/real\real_305.mp4,A hallway with a wooden door and a wooden floor.
+../datasets/real\real_306.mp4,Two dogs walking in the grass near a house.
+../datasets/real\real_307.mp4,A person is sitting in front of a computer and talking to the camera.
+../datasets/real\real_308.mp4,"A man is sitting in front of a microphone, wearing glasses and a shirt with a collar."
+../datasets/real\real_309.mp4,The person is standing in a kitchen and holding a bag of chicken feed.
+../datasets/real\real_310.mp4,The joker is driving a car and getting angry.
+../datasets/real\real_311.mp4,A chef is adding tomato sauce to a frying pan on a stove.
+../datasets/real\real_312.mp4,A white mercedes benz parked on a driveway.
+../datasets/real\real_313.mp4,A cartoon of a man in a hat with a cigarette in front of stairs.
+../datasets/real\real_314.mp4,A person is drawing on a red sheet of paper with colored pencils and markers.
+../datasets/real\real_315.mp4,A man is walking through a tunnel with a red light at the end of it.
+../datasets/real\real_316.mp4,A person is cutting a piece of meat on a cutting board with a knife.
+../datasets/real\real_317.mp4,"The player is playing a video game on a computer screen, and the game is a first-person shooter game."
+../datasets/real\real_318.mp4,A woman standing on a stage at a tedx event.
+../datasets/real\real_319.mp4,A screenshot of a video game showing two characters fighting.
+../datasets/real\real_320.mp4,A person is cooking a stew in a pot with vegetables and meat.
+../datasets/real\real_321.mp4,A man and a woman on a news broadcast.
+../datasets/real\real_322.mp4,A person is accessing the rear part of the main control board to replace it.
+../datasets/real\real_323.mp4,A man in a suit and tie with the words first reel movies.
+../datasets/real\real_324.mp4,A black woman wearing a white blazer stands on stage at an event.
+../datasets/real\real_325.mp4,Two men in military gear standing next to each other.
+../datasets/real\real_326.mp4,An older man with glasses is pointing his finger at a television that is on the screen.
+../datasets/real\real_327.mp4,A green frame with a white background.
+../datasets/real\real_328.mp4,"A car is driving on an asphalt road in the woods, and there are trees on both sides of the road."
+../datasets/real\real_329.mp4,A man and a woman working on a laptop in a kitchen.
+../datasets/real\real_330.mp4,The person is holding a bottle of salad dressing and there are some vegetables on the table in front of them.
+../datasets/real\real_331.mp4,A person is using an orange tool to make a design on a piece of metal.
+../datasets/real\real_332.mp4,Two women are standing in a bookstore and talking to each other.
+../datasets/real\real_333.mp4,A rat standing on top of a notebook on a table.
+../datasets/real\real_334.mp4,The speaker is walking around an airport and talking to the camera.
+../datasets/real\real_335.mp4,A group of police officers are about to break down a door to arrest someone.
+../datasets/real\real_336.mp4,A news anchor sitting in front of a picture of a bridge.
+../datasets/real\real_337.mp4,A minecraft character standing in the middle of a field.
+../datasets/real\real_338.mp4,A young man wearing a black shirt is smiling and looking at the camera.
+../datasets/real\real_339.mp4,A black and white photo of a beach town.
+../datasets/real\real_340.mp4,A woman is lying on the couch while her cat is laying down next to her.
+../datasets/real\real_341.mp4,"A person is using their fingers to fill balloons with leftover at the end, starting with a balloon for the stem. they then twist their design at the nozzle end of the balloon and push the nozzle inside the balloon with their index finger."
+../datasets/real\real_342.mp4,A memorial with candles and signs on the side of the road.
+../datasets/real\real_343.mp4,A man is talking to the camera in a room.
+../datasets/real\real_344.mp4,A woman with red hair and a black dress on a talk show.
+../datasets/real\real_345.mp4,A neon sign in the dark with chains around it.
+../datasets/real\real_346.mp4,A frying pan sitting on top of a white surface.
+../datasets/real\real_347.mp4,A man is standing next to a car in a garage.
+../datasets/real\real_348.mp4,A person writing on a white board with a marker.
+../datasets/real\real_349.mp4,An object in the water with a rope around it.
+../datasets/real\real_350.mp4,A stylish black man is standing in front of a clothing store and talking to the camera.
+../datasets/real\real_351.mp4,A woman speaking at a podium in front of a group of people.
+../datasets/real\real_352.mp4,There are tea plantations in the mountains.
+../datasets/real\real_353.mp4,A view of the inside of a car from the driver's seat.
+../datasets/real\real_354.mp4,"It is a scenic view of a mountainous area with a lake in the foreground, surrounded by lush green trees and mountains in the background."
+../datasets/real\real_355.mp4,A woman standing next to a woman on a horse.
+../datasets/real\real_356.mp4,A news anchor on a newscast wearing a yellow top.
+../datasets/real\real_357.mp4,A person rides a motorcycle on a highway at sunset with other vehicles driving on the road.
+../datasets/real\real_358.mp4,Two toy dinosaurs standing next to each other in a room.
+../datasets/real\real_359.mp4,A young woman is taking a selfie in the bathroom and talking to the camera.
+../datasets/real\real_360.mp4,A person is folding a yellow paper box.
+../datasets/real\real_361.mp4,A person is using a smart phone with a facebook app on it.
+../datasets/real\real_362.mp4,A man in a suit and glasses on a news show.
+../datasets/real\real_363.mp4,A young man with curly hair gives the thumbs up sign with his hands and fingers.
+../datasets/real\real_364.mp4,A minecraft character standing in the grass.
+../datasets/real\real_365.mp4,The players are playing a game of field hockey and one player is trying to stop a sure goal but is hit on the side of the head by the ball.
+../datasets/real\real_366.mp4,There is a yellow fruit on a silver plate with pink flowers in the background.
+../datasets/real\real_367.mp4,A man looking at a robot in a video game.
+../datasets/real\real_368.mp4,A blue water bottle sitting on a camouflage bag.
+../datasets/real\real_369.mp4,Two men are standing at a table in the outdoors and discussing their gear.
+../datasets/real\real_370.mp4,The person is standing in an outdoor marketplace surrounded by vendors selling various fruits and vegetables.
+../datasets/real\real_371.mp4,Two women on the news talking about education.
+../datasets/real\real_372.mp4,A man holding a pitcher and a glass of beer.
+../datasets/real\real_373.mp4,"A man in a red jacket is standing on the shore of a lake, holding a fishing rod."
+../datasets/real\real_374.mp4,"A jeep crashed into a house, causing damage to the front of the house."
+../datasets/real\real_375.mp4,A person is standing in front of a swimming pool and pointing towards it.
+../datasets/real\real_376.mp4,A red sign that says badminton england.
+../datasets/real\real_377.mp4,The person is playing a video game and is frustrated with the game.
+../datasets/real\real_378.mp4,A group of kids are running and jumping in a living room.
+../datasets/real\real_379.mp4,A group of children in a classroom with their arms up in the air.
+../datasets/real\real_380.mp4,A woman is sitting on a couch and talking to the camera.
+../datasets/real\real_381.mp4,"A woman is standing on a television news set wearing a black dress and glasses, looking at the camera with a serious expression."
+../datasets/real\real_382.mp4,A fisherman is holding a red drum fish on a boat in the water with a cloudy sky in the background.
+../datasets/real\real_383.mp4,A couple of people standing on a ladder on top of an adobe building.
+../datasets/real\real_384.mp4,A close up of a plate of food on a table.
+../datasets/real\real_385.mp4,A close up of a car's engine compartment.
+../datasets/real\real_386.mp4,A pink background with the words retro brand review.
+../datasets/real\real_387.mp4,"There are several books stacked on top of each other, with the titles written in chinese characters."
+../datasets/real\real_388.mp4,A video game character standing in front of a colorful landscape.
+../datasets/real\real_389.mp4,A news anchor standing in front of a tv screen.
+../datasets/real\real_390.mp4,A person holding a black and white nike running shoe.
+../datasets/real\real_391.mp4,"The car is equipped with a navigation system that displays the current location, speed, and direction of the vehicle."
+../datasets/real\real_392.mp4,A woman in a blue shirt and hat standing in front of a crowd of people.
+../datasets/real\real_393.mp4,A woman on a television screen with a map in the background.
+../datasets/real\real_394.mp4,A woman is talking to the camera and smiling.
+../datasets/real\real_395.mp4,The user is using a software to create a 3d model of a ladder.
+../datasets/real\real_396.mp4,A person holding up a mouse pad with a picture of a character on it.
+../datasets/real\real_397.mp4,A person is plugging in a usb cable into a device.
+../datasets/real\real_398.mp4,A woman with her hands on a table next to a bottle of lotion.
+../datasets/real\real_399.mp4,There is a large aquarium with clear water and some rocks in it.
+../datasets/real\real_400.mp4,A man in a suit is standing with his arms outstretched and a stern look on his face.
+../datasets/real\real_401.mp4,A close up of an orange and white motorcycle.
+../datasets/real\real_402.mp4,A television screen with a weather report on it.
+../datasets/real\real_403.mp4,A person holding a garfield stuffed animal on a bed.
+../datasets/real\real_404.mp4,Person merkel speaking at a news conference.
+../datasets/real\real_405.mp4,A person is mixing ingredients in a bowl with a spoon.
+../datasets/real\real_406.mp4,"The speaker is a middle-aged man with glasses and a white shirt, sitting in front of a blue background."
+../datasets/real\real_407.mp4,A dolphin is swimming in a large tank of water with people looking at it through the glass.
+../datasets/real\real_408.mp4,A person holding a piece of equipment on a desk.
+../datasets/real\real_409.mp4,The person is sitting at a desk in front of a laptop and talking to the camera.
+../datasets/real\real_410.mp4,A woman in a red t-shirt is standing in front of a kitchen counter and talking to the camera.
+../datasets/real\real_411.mp4,A man drives a race car around the track from the driver's seat.
+../datasets/real\real_412.mp4,A text document in microsoft word.
+../datasets/real\real_413.mp4,Person is pouring liquid into ice cube trays.
+../datasets/real\real_414.mp4,There is a soccer game being played on a stadium with a large crowd of people watching.
+../datasets/real\real_415.mp4,A police officer is training a dog in a park.
+../datasets/real\real_416.mp4,A group of people are participating in a video chat.
+../datasets/real\real_417.mp4,A man and a woman in bed in a bedroom.
+../datasets/real\real_418.mp4,A father and son are playing with a remote control toy airplane on a sports field.
+../datasets/real\real_419.mp4,Four women sitting at a round table.
+../datasets/real\real_420.mp4,"A group of people are singing and dancing in front of a live audience. they are wearing different outfits, and some of them are holding musical instruments."
+../datasets/real\real_421.mp4,There is a young man wearing a white t-shirt standing in front of a blue brick wall and smiling.
+../datasets/real\real_422.mp4,A man in silhouette standing on a stage in front of a light.
+../datasets/real\real_423.mp4,People are sitting on a couch in a living room with presents.
+../datasets/real\real_424.mp4,"A man is sitting in the back of an open-sided van, surrounded by trees and mountains."
+../datasets/real\real_425.mp4,The drone is flying over a forest and detecting targets on the ground.
+../datasets/real\real_426.mp4,A woman in pink pajamas standing in front of a bed.
+../datasets/real\real_427.mp4,A group of people are practicing yoga on the grass in a park.
+../datasets/real\real_428.mp4,The user is using a stylus to draw on the screen of an ipad.
+../datasets/real\real_429.mp4,A man with a beard is sitting in the driver's seat of a car while driving. he is wearing a black shirt and has his hands on the steering wheel.
+../datasets/real\real_430.mp4,A senior woman is sitting in a hair salon and talking to the barber.
+../datasets/real\real_431.mp4,"There is a sign with the words ""small business spotlight"" on it."
+../datasets/real\real_432.mp4,An old man with a serious look on his face is holding a pen and writing a letter on a piece of paper.
+../datasets/real\real_433.mp4,A young woman is standing in a kitchen wearing a green apron and a yellow shirt.
+../datasets/real\real_434.mp4,A collage of three men with boxing gloves on.
+../datasets/real\real_435.mp4,A man in a suit and tie is talking on a screen.
+../datasets/real\real_436.mp4,The bow of a boat on a river with houses in the background.
+../datasets/real\real_437.mp4,"There is a large group of people gathered on the street, some of them are holding flags and banners, and there is a bus in the background."
+../datasets/real\real_438.mp4,A group of people are standing outside a restaurant at night and one person is taking pictures with their phone.
+../datasets/real\real_439.mp4,"The speaker is a woman with dark skin, wearing an orange jacket and speaking in front of a black background."
+../datasets/real\real_440.mp4,A young man is playing the drums in a recording studio.
+../datasets/real\real_441.mp4,A person walking with a suitcase on a tiled floor.
+../datasets/real\real_442.mp4,A balding man in a white shirt is standing in a dark room and looking around.
+../datasets/real\real_443.mp4,"There is a man in a suit and tie standing in front of a television screen displaying a weather forecast for the providence area, with rain showers expected to arrive later in the day on wednesday and thursday."
+../datasets/real\real_444.mp4,A group of people are sitting on stools in front of a large screen displaying an advertisement.
+../datasets/real\real_445.mp4,A couple of birds in a nest in a bush.
+../datasets/real\real_446.mp4,"A person is riding a motorcycle on the street, and there are cars parked on the side of the road."
+../datasets/real\real_447.mp4,A woman in a red shirt on local 12 news.
+../datasets/real\real_448.mp4,A brown bear is standing in a grassland and looking around.
+../datasets/real\real_449.mp4,A news anchor standing in front of a large screen.

@@ -8,7 +8,7 @@ import ast
 SOURCE_CSV_FILE = "panda70m.csv"
 TARGET_VIDEOS = 50
 OUTPUT_DIR = "datasets/real"
-OUTPUT_CSV = f"{OUTPUT_DIR}/real_captions.csv"
+OUTPUT_CSV = "real_captions.csv"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

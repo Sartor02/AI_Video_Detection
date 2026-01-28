@@ -20,7 +20,7 @@ if MY_HF_TOKEN:
 # --- CONFIGURATION ---
 CSV_FILE = "real_captions.csv"
 # Save into the folder (used ModelScope)
-OUTPUT_DIR = "datasets/fake_pyramid" 
+OUTPUT_DIR = "../datasets/fake_pyramid" 
 
 # Lightweight standard Text-to-Video model
 MODEL_ID = "damo-vilab/text-to-video-ms-1.7b"

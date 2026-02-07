@@ -6,9 +6,9 @@ import ast
 
 # --- CONFIGURATION ---
 SOURCE_CSV_FILE = "panda70m.csv"
-TARGET_VIDEOS = 450
-OUTPUT_DIR = "../datasets/real"
-OUTPUT_CSV = "real_captions.csv"
+TARGET_VIDEOS = 81
+OUTPUT_DIR = "../datasets/real_generalization"
+OUTPUT_CSV = "real_generalization_captions.csv"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

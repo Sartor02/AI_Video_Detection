@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+PyWavelets
+timm
+torchvision

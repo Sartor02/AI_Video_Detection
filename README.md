@@ -95,8 +95,3 @@ Despite reaching **97.53% accuracy**, the study highlights a "Confidence Collaps
 **Author:** Alessandro Sartore  
 **Course:** Trends and Applications of Computer Vision – University of Trento
 ```
-
-### Note finali per le immagini:
-* **Teaser Image:** Usa lo screenshot della slide 13 (Wavelet Blending) o la slide con il confronto Real/Fake.
-* **Architecture:** Inserisci lo schema della slide 14 (Multi-Scale Temporal).
-* **SWT Graph:** Esporta il grafico energetico (Figure 5 nel tuo report PDF).
